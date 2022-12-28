@@ -4,7 +4,7 @@
   </h1>
   
   <p align="right">
-    <a href="https://github.com/dayane-rosas/dio-desafio-github-primeiro-repositorio/blob/main/ezgif.com-gif-maker.gif"> </a>
+    <a href="https://github.com/dayane-rosas/java-anatomia-classes/blob/main/ezgif.com-gif-maker.gif"> </a>
     <img src="ezgif.com-gif-maker.gif" width="200">
     
 <div align='left'>
