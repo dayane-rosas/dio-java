@@ -8,7 +8,7 @@
     <img src="ezgif.com-gif-maker.gif" width="200">
     
 <div align='left'>
-  <b> ⭐️ Seja bem-vindo </b>
+  <b> ⭐️ Seja bem-vindo ao conteúdo sobre Java </b>
 </div> </br>
 
   <p align="left">
