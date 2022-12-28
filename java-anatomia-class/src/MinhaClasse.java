@@ -12,7 +12,7 @@ public class MinhaClasse {
     }
 
     public static String nomeCompleto(String primeiroNome, String segundoNome, String terceiroNome) {
-        return primeiroNome.concat(" ").concat(segundoNome).concat(terceiroNome);
+        return "Resultado do método é: " + primeiroNome.concat(" ").concat(segundoNome).concat(terceiroNome);
 
     }
 
