@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/dayane-rosas)
 <div>
   <h1 align="left">
   👋🏼Olá galera, eu sou Dayane Rosas🥰
