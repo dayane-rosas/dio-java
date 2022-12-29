@@ -12,7 +12,7 @@
 </div> </br>
 
   <p align="left">
-    Nesse repositório contém as atividades práticas do módulo <b> Aprendendo a Sintaxe Java do Bootcamp GFT Quality Assurance Para Mulheres da DIO </b>. Módulo ministrado pelo Instrutor: <a href="https://github.com/glysns">Gleyson Sampaio.
+    Nesse repositório contém as atividades práticas da trilha de <b>Java Básico do Bootcamp GFT Quality Assurance Para Mulheres da DIO </b>. Módulo ministrado pelo Instrutor: <a href="https://github.com/glysns">Gleyson Sampaio.
     
 <p align="left">
 
