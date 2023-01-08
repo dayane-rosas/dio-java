@@ -3,7 +3,7 @@ package metodos;
 public class SmartTv {
     boolean ligada = false;
     int canal = 1;
-    int volume = 25;
+    int volume = 24;
 
     public void mudarCanal(int novoCanal) {
         canal = novoCanal;
